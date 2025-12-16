@@ -1,6 +1,6 @@
 # meletao
 
-A space where I document what I learn. Feel free to explore the content:
+My brain dumpyard:
 
 1. [/python](https://meletao.github.io/python)
 2. [/zig](https://meletao.github.io/zig)
