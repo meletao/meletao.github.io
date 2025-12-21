@@ -1,4 +1,4 @@
 # meletao
 
-My brain dumpyard at https://meletao.github.io/blog
+My brain [dumpyard](https://meletao.github.io/blog)
 
